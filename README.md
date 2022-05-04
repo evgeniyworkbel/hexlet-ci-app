@@ -1,5 +1,7 @@
 # Example app for CI Hexlet course
 
+![Actions Status](https://github.com/evgeniyworkbel/hexlet-ci-app/actions/workflows/workflow1/badge.svg)
+
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
 ## System requirements
@@ -28,6 +30,7 @@ make lint
 ```
 
 ---
+
 
 [![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://ru.hexlet.io/pages/about?utm_source=github&utm_medium=link&utm_campaign=hexlet-ci-app)
 
