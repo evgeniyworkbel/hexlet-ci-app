@@ -20,7 +20,7 @@
     "supertest": "^6.1.6"
   },
   "dependencies": {
-    "@strapi/plugin-i18n": "4.0.2",
+    "@strapi/plugin-i18n": "4.1.8",
     "@strapi/plugin-users-permissions": "4.0.2",
     "@strapi/strapi": "4.0.2"
   },
